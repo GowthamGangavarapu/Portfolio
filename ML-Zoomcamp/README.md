@@ -1,3 +1,3 @@
-This is course learned from Dataclubs and will be used to furthen enchance my knowledge in MLops.
+This is a project on MLops in productionizing an ML model to predict time of a trip on NYC taxi data.
 
 Areas Covered:
