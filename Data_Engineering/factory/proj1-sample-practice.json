@@ -1,0 +1,9 @@
+{
+	"name": "proj1-sample-practice",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "5a2ec357-f9b2-4e3a-9078-af8726c36c7a",
+		"tenantId": "17dcb00c-6941-4050-b69e-bd7eb8951712"
+	}
+}
