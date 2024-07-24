@@ -1,0 +1,7 @@
+{
+	"name": "SHIR",
+	"properties": {
+		"type": "SelfHosted",
+		"description": "This is selfhosted integration runtime to connect onpremise sql server using a linked service."
+	}
+}
